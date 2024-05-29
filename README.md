@@ -6,7 +6,7 @@
     <title>Submit Text</title>
 </head>
 <body>
-    <form id="textForm" action="https://requestscript.github.io/submit" method="post">
+    <form id="textForm" action="https://github.com/SAZXHUB/K.github.io/submit" method="post">
         <label for="textInput">Enter your text:</label>
         <input type="text" id="textInput" name="textInput" required>
         <button type="submit">Submit</button>
